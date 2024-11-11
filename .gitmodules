@@ -1,0 +1,6 @@
+[submodule "cc1"]
+	path = cc1
+	url = https://github.com/samir20-23/CC1.git
+[submodule "symGolden"]
+	path = symGolden
+	url = https://github.com/samir20-23/sym_golden_groud.git
