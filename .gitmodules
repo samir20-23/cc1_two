@@ -4,3 +4,6 @@
 [submodule "symGolden"]
 	path = symGolden
 	url = https://github.com/samir20-23/sym_golden_groud.git
+[submodule "soli-lmt"]
+	path = soli-lmt
+	url = https://github.com/soli-lms/pkg_shared_mockup.git
